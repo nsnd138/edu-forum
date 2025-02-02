@@ -1,0 +1,4 @@
+models/*.gguf
+venv/
+data/*.pdf
+

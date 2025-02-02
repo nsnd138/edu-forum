@@ -1,0 +1,2 @@
+link vinallama-7b-chat: https://huggingface.co/vilm/vinallama-7b-chat-GGUF/tree/main
+link all-MiniLM-L6-v2-f16: https://huggingface.co/caliex/all-MiniLM-L6-v2-f16.gguf/tree/main
