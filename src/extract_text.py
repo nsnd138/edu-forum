@@ -28,3 +28,4 @@ def process_all_pdfs(pdf_data_path):
             all_tables.extend(tables)
 
     return all_text, all_tables
+
